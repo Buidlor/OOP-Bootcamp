@@ -59,7 +59,6 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
           <p>${content.text}</p>
         </div>
       `).join('')}
-
     </div>
   </div>
 `
